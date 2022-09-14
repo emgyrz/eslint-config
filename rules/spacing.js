@@ -8,7 +8,7 @@ module.exports = {
     'array-bracket-spacing': [1, 'always'],
     'block-spacing': 1,
     'brace-style': 1,
-    'comma-spacing': [2, {before: false, after: true}],
+    'comma-spacing': [1, {before: false, after: true}],
     'space-in-parens': [1, 'always'],
     'max-lines': [2, 315],
     'no-tabs': 2,
